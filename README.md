@@ -30,6 +30,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" />
+<img align="left" alt="Illustrator" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" />
 
 <br />
 
@@ -45,13 +47,7 @@
 </details>
 </br>
 <details>
-  <summary>💫 Anime, Manga and Music</summary>
-  
-  ### 🌸 My recent AniList activity
-
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
+  <summary>💫 Miscellaneous</summary>
   
   [![Spotify](https://novatorem-dun-phi.vercel.app/api/spotify)](https://open.spotify.com/user/noobmaster2201)
   </br>[![Discord Presence](https://lanyard.cnrad.dev/api/755364630045392939)](https://discord.com/users/755364630045392939)
