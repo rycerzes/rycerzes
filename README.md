@@ -52,6 +52,9 @@
   </br>[![Discord Presence](https://lanyard.cnrad.dev/api/755364630045392939)](https://discord.com/users/755364630045392939)
 </details>  
 
+![](https://komarev.com/ghpvc/?username=rycerzes&label=PROFILE+VIEWS)
+
+
 [twitter]: https://twitter.com/swaapppyyy
 [instagram]: https://instagram.com/baka_paws
 [spotifyplaylist]: https://open.spotify.com/playlist/7bKs1HDPRAua3GQAguFMoC?si=d16cf46a8ad543a6
