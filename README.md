@@ -1,4 +1,4 @@
-# Hi there, I'm Swappy - aka [Inferis][youtube] 👋 
+# Hi there, I'm Swappy - aka Inferis👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/swaapppyyyr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/rycerzes&screen_name=swaapppyyy)
 
@@ -54,5 +54,4 @@
 [instagram]: https://instagram.com/baka_paws
 [spotifyplaylist]: https://open.spotify.com/playlist/7bKs1HDPRAua3GQAguFMoC?si=d16cf46a8ad543a6
 [discord]: https://discord.gg/EPXz4eyhHD
-[discord_profile]: discordapp.com/users/755364630045392939# rycerzes
-# rycerzes
+[discord_profile]: discordapp.com/users/755364630045392939#
