@@ -54,7 +54,7 @@
 <!-- ANILIST_ACTIVITY:end -->
   
   [![Spotify](https://novatorem-dun-phi.vercel.app/api/spotify)](https://open.spotify.com/user/noobmaster2201)
-  </n>[![Discord Presence](https://lanyard.cnrad.dev/api/755364630045392939)](https://discord.com/users/755364630045392939)
+  </br>[![Discord Presence](https://lanyard.cnrad.dev/api/755364630045392939)](https://discord.com/users/755364630045392939)
 </details>  
 
 [twitter]: https://twitter.com/swaapppyyy
