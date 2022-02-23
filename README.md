@@ -4,10 +4,9 @@
 [![Github_Follow](https://img.shields.io/github/followers/rycerzes?color=lightgrey&style=flat)](https://github.com/rycerzes/)
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/inferis127?color=orange&style=flat)](https://reddit.com/u/inferis127)
 
-## I'm a 18yr old Student, Code Enthusiast, Opportunist and Cultured Weeb!!
+## 18yr old Student, Code Enthusiast, Opportunist and Cultured Weeb!!
 
-- Fun fact: I love to draw [digital art][instagram] and play tabla
-- [Music][spotifyplaylist] has been an integral part of my life 
+- Fun fact: I love to draw [digital art][instagram] and play tabla 
 - Join my [Discord Server][discord]
 - PS: Will publish some discord bot repos xD
 
@@ -48,13 +47,14 @@
 <details>
   <summary>💫 Anime, Manga and Music</summary>
   
-  # 🌸 My recent AniList activity
+  ### 🌸 My recent AniList activity
 
 <!-- ANILIST_ACTIVITY:start -->
 
 <!-- ANILIST_ACTIVITY:end -->
   
   [![Spotify](https://novatorem-dun-phi.vercel.app/api/spotify)](https://open.spotify.com/user/noobmaster2201)
+  </n>[![Discord Presence](https://lanyard.cnrad.dev/api/755364630045392939)](https://discord.com/users/755364630045392939)
 </details>  
 
 [twitter]: https://twitter.com/swaapppyyy
