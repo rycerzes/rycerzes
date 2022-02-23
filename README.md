@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/swaapppyyy?color=1DA1F2&logo=twitter&style=flat&logo=appveyor)](https://twitter.com/intent/follow?screen_name=swaapppyyy)
 
-## I'm a 18yr old Student, Code Enthusiast, Opportunistic, and Cultured Weeb!!
+## I'm a 18yr old Student, Code Enthusiast, Opportunist and Cultured Weeb!!
 
 - 🌱 I’m currently learning everything xD
 - 👯 I'm all about teamwork
@@ -43,6 +43,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rycerzes&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+</br>
+
 
 [twitter]: https://twitter.com/swaapppyyy
 [instagram]: https://instagram.com/baka_paws
