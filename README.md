@@ -1,9 +1,6 @@
 # <img alt="" align="left" src="https://badges.pufler.dev/years/rycerzes?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <img alt="" align="right" src="https://img.shields.io/badge/Resume-000000?style=flat&link=https://drive.google.com/file/d/1_JXRSvPhLSlWWVzGEObfLoxV7aveeVSW/view?usp=sharing"/>
 <br>
 
-# <img alt="" align="left" src="https://badges.pufler.dev/years/rycerzes?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <img alt="" align="right" src="https://img.shields.io/badge/Resume-000000?style=flat&link=https://drive.google.com/file/d/1_JXRSvPhLSlWWVzGEObfLoxV7aveeVSW/view?usp=sharing"/>
-<br>
-
 ```
  _ __ _   _  ___ ___ _ __ _______  ___ 
 | '__| | | |/ __/ _ \ '__|_  / _ \/ __|
