@@ -1,6 +1,3 @@
-# <img alt="" align="left" src="https://badges.pufler.dev/years/rycerzes?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/> <img alt="" align="right" src="https://img.shields.io/badge/Resume-000000?style=flat&link=https://drive.google.com/file/d/1_JXRSvPhLSlWWVzGEObfLoxV7aveeVSW/view?usp=sharing"/>
-<br>
-
 ```
  _ __ _   _  ___ ___ _ __ _______  ___ 
 | '__| | | |/ __/ _ \ '__|_  / _ \/ __|
@@ -29,24 +26,3 @@ Projects:
  ~$ <strong>ls socials</strong>
  <a href="mailto:swapsnil12@gmail.com">Gmail</a> | <a href="https://linkedin.com/in/swapnildutta1">LinkedIn</a> | <a href="https://discordapp.com/users/755364630045392939">Discord</a>
 </pre>
-<!-- ```bash
-$ macchina -t custom
-┌─────────────────────────────────────────────────────────────────┐
-│ Host        >  swappy@gh0st                                     │
-│ Machine     >  LENOVO Legion 5i                                 │
-│ Kernel      >  6.1.65-1-lts                                     │
-│ Distro      >  Arch Linux                                       │
-│ DE          >  KDE                                              │
-│ Packages    >  1608 (pacman)                                    │
-│ Terminal    >  tmux                                             │
-│ Shell       >  bash                                             │
-│ Uptime      >  26h 02m                                          │
-│ CPU         >  13th Gen Intel(R) Core(TM) i7-13700HX @ 2.304GHz │
-│ Resolution  >  2560x1600                                        │ 
-│ Memory      >  ● ● ● ● ● ● ● ○ ○ ○                              │    
-│ CPU Load    >  ● ● ● ● ● ● ● ● ● ○                              │    
-│ Brightness  >  ● ● ● ○ ○ ○ ○ ○ ○ ○                              │    
-│ Resolution  >  2560x1600                                        │    
-└─────────────────────────────────────────────────────────────────┘
-``` -->
-``` -->
